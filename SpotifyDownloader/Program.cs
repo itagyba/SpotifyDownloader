@@ -14,8 +14,8 @@ namespace SpotifyDownloader
 {
     class Program
     {
-        private static string _clientId = "8b3ce77382784d82ba882baabbb006da";
-        private static string _secretId = "ba5be67efe6742189408f0d976ed2c72";
+        private static string _clientId = "";
+        private static string _secretId = "";
 
         static void Main(string[] args)
         {
